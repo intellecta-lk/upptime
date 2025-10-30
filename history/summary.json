@@ -55,16 +55,16 @@
     "url": "https://attendee.intellecta-lk.com",
     "icon": "https://icons.duckduckgo.com/ip3/attendee.intellecta-lk.com.ico",
     "slug": "attendee",
-    "status": "up",
-    "uptime": "98.21%",
-    "uptimeDay": "78.64%",
-    "uptimeWeek": "83.33%",
-    "uptimeMonth": "83.37%",
-    "uptimeYear": "98.21%",
+    "status": "down",
+    "uptime": "98.22%",
+    "uptimeDay": "78.63%",
+    "uptimeWeek": "83.81%",
+    "uptimeMonth": "83.50%",
+    "uptimeYear": "98.22%",
     "time": 1017,
     "timeDay": 711,
-    "timeWeek": 694,
-    "timeMonth": 707,
+    "timeWeek": 691,
+    "timeMonth": 706,
     "timeYear": 1017,
     "dailyMinutesDown": {
       "2025-10-30": 186,
@@ -92,8 +92,7 @@
       "2025-10-08": 344,
       "2025-10-07": 278,
       "2025-10-06": 160,
-      "2025-10-05": 333,
-      "2025-10-04": 58
+      "2025-10-05": 333
     }
   },
   {
