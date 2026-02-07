@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.intellecta-lk.com.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "95.84%",
+    "uptime": "95.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "96.10%",
-    "time": 1059,
-    "timeDay": 570,
-    "timeWeek": 572,
-    "timeMonth": 610,
-    "timeYear": 1099,
+    "uptimeYear": "96.37%",
+    "time": 1058,
+    "timeDay": 656,
+    "timeWeek": 589,
+    "timeMonth": 616,
+    "timeYear": 1098,
     "dailyMinutesDown": {
       "2026-01-31": 19,
       "2026-01-26": 33,
@@ -47,8 +47,7 @@
       "2025-02-15": 195,
       "2025-02-14": 464,
       "2025-02-13": 169,
-      "2025-02-08": 892,
-      "2025-02-07": 1440
+      "2025-02-08": 892
     }
   },
   {
@@ -63,10 +62,10 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "98.59%",
     "time": 959,
-    "timeDay": 645,
-    "timeWeek": 693,
-    "timeMonth": 714,
-    "timeYear": 988,
+    "timeDay": 875,
+    "timeWeek": 712,
+    "timeMonth": 722,
+    "timeYear": 987,
     "dailyMinutesDown": {
       "2026-01-31": 18,
       "2026-01-26": 33,
@@ -105,16 +104,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/micro.intellecta-lk.com.ico",
     "slug": "int-uploader",
     "status": "up",
-    "uptime": "95.94%",
+    "uptime": "95.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "96.20%",
-    "time": 909,
-    "timeDay": 495,
-    "timeWeek": 504,
-    "timeMonth": 531,
-    "timeYear": 938,
+    "uptimeYear": "96.47%",
+    "time": 908,
+    "timeDay": 591,
+    "timeWeek": 511,
+    "timeMonth": 534,
+    "timeYear": 937,
     "dailyMinutesDown": {
       "2026-01-31": 18,
       "2026-01-26": 32,
@@ -141,8 +140,7 @@
       "2025-02-15": 174,
       "2025-02-14": 387,
       "2025-02-13": 160,
-      "2025-02-08": 884,
-      "2025-02-07": 1440
+      "2025-02-08": 884
     }
   }
 ]
